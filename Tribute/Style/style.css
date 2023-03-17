@@ -1,0 +1,20 @@
+* {
+        box-sizing: border-box;
+  }
+
+body{
+    background-color: black;
+    color: white;
+    font-family: Times, serif;
+}
+
+.header, .image{
+    text-align: center;
+}
+
+.bio{
+    text-align: center;
+    margin-left: 220px;
+    margin-right: 220px;
+}
+
